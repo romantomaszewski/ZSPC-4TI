@@ -1,4 +1,4 @@
-<PHP
+<?PHP
 
 print("siemanko");
 
